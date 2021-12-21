@@ -27,3 +27,4 @@ wstunnel -t 7001:127.0.0.1:22 --proxy socks://127.0.0.1:1086 wss://gaotie.up.rai
 2. 自己的Linux VPS远程登录Railway云VPS命令：
 
 ssh root@127.0.0.1 -p 7001
+https://www.youtube.com/watch?v=rHVvu9qtyNY&t=307s
